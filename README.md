@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://4727yesuraju.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]([https://4727yesuraju.io](https://yesu-portfolio.vercel.app/))
 <h1 align="center">Hi 👋, I'm Yesu Raju Kommanapalli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/033a6967588d215590c6299d40f3d3a5be563ea2c381addf8ae8f48ae6c913c2/68747470733a2f2f6173736574732e7a79726f736974652e636f6d2f41713230655637397a4c6670585636622f62623337356364643635353138346361323731356163353035396537333635312d5958345a45655a45766268724d4d5a612e676966"/>
@@ -7,13 +7,10 @@
 
 - 🌱 I’m currently learning **React Native, Angular**
 
-- 👨‍💻 All of my projects are available at [https://yesu-portfolio.vercel.app](https://yesu-portfolio.vercel.app)
-
 - 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **4727yesuraju@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xqJJm2wwjF8sXPlSzgOfIdyLo0C5TMei/view?usp=sharing](https://drive.google.com/file/d/1xqJJm2wwjF8sXPlSzgOfIdyLo0C5TMei/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
